@@ -1,0 +1,17 @@
+{
+	"TickerIntervalMs": 1500,
+	"IdlePeriod": 15,
+	"LocalZenith": 14,
+	"FanTrigger": {
+		"Night": 65,
+		"Day": 50
+	},
+	"FanSpeedLimit": {
+		"Minimum": 60,
+		"Maximum": 250
+	},
+	"TempLimit": {
+		"Night": 85,
+		"Day": 83
+	}
+}
